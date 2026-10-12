@@ -1,3 +1,7 @@
+> **New home:** [DanielNetzer/skills](https://github.com/DanielNetzer/skills/tree/main/skills/cloud-cost-projection). Future updates belong in the collection. This repository retains its package and history for existing users.
+>
+> Install: `npx skills add DanielNetzer/skills --skill cloud-cost-projection`
+
 # Cloud cost projection
 
 Finance-grade, formula-driven cloud cost projection (GCP/AWS via a reseller). Three scenarios, per-project and per-account breakdowns, commitment flags, vendor cash on real payment timing, KPI cap comparison, optional innovation envelope.
@@ -5,8 +9,6 @@ Finance-grade, formula-driven cloud cost projection (GCP/AWS via a reseller). Th
 - Canonical page: https://www.danielnetzer.com/skills/cloud-cost-projection
 - GitHub (skill repo): https://github.com/danielnetzer/cloud-cost-projection
 - Zip: https://www.danielnetzer.com/skills/files/cloud-cost-projection.zip
-
-Personal GitHub profile links stay off danielnetzer.com chrome, Person sameAs, and bios. This repo is the public skill package only.
 
 ## Install
 
